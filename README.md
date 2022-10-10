@@ -3,6 +3,7 @@
 ## 行政边界下载
 
 > 阿里云地图工具：[http://datav.aliyun.com/portal/school/atlas/area_selector](http://datav.aliyun.com/portal/school/atlas/area_selector)
+> 备选工具：[https://hxkj.vip/demo/echartsMap/](https://hxkj.vip/demo/echartsMap/)
 
 ![1655088730940](image/README/1655088730940.png)
 
